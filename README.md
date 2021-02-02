@@ -1,2 +1,3 @@
 # the-zcoder
-Not ! You have to Guesz
+Not finished. 
+One has to realize the initial idea better.
